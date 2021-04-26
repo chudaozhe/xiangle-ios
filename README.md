@@ -3,6 +3,8 @@
 
 现分享出来，看有没有需要的朋友
 
+Android版在这里 [xiangle-android](https://github.com/chudaozhe/xiangle-android/)
+
 # 项目介绍
 ```text
 布局采用纯代码的方式（frame+masonry），没有storyboard
@@ -48,4 +50,7 @@ Util：工具类
 ```
 pod install
 ```
-2.使用Xcode 12.4打开`xiangle.xcworkspace`文件
+2.使用 Xcode 打开`xiangle.xcworkspace`文件
+
+# 已打包的版本
+[下载链接](https://xiangle.cuiwei.net/download/)
